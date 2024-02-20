@@ -1,2 +1,1 @@
-# C-Programs-for-Linux
-Programs written in C that work with files, directors, threads, processes, and also pipes in Linux.
+All the programs were made with the requirements needed in each folder using the C language. It works on the Linux operating system, and it uses many data structures, pointers all along the way, and Linux operations for working with files.
